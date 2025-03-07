@@ -13,5 +13,3 @@ About me
 💡Benefit: I write useful posts about programming and create video tutorials
 
 🎲 Fun fact: I am always open to new ideas, projects, and collaborations!
-
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
